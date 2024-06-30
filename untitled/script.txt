@@ -1,0 +1,22 @@
+info
+show
+add
+Valerik
+-30
+12
+1200
+CHEAP
+LOFFF
+300
+LOFT
+show
+update 11
+DEVIL
+-30
+12
+1200
+BUDGETARY
+KINGPUB
+300
+CINEMA
+show

@@ -4,8 +4,8 @@ out/
 !**/src/test/**/out/
 pom.xml
 /target
-/.idea
-TicketToHell.iml
+/.idea/
+/TicketToHell.iml
 
 ### Eclipse ###
 .apt_generated
